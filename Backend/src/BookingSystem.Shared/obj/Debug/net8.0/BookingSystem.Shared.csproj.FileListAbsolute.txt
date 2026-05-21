@@ -1,0 +1,11 @@
+D:\PruebaTecnica\Backend\src\BookingSystem.Shared\bin\Debug\net8.0\BookingSystem.Shared.deps.json
+D:\PruebaTecnica\Backend\src\BookingSystem.Shared\bin\Debug\net8.0\BookingSystem.Shared.dll
+D:\PruebaTecnica\Backend\src\BookingSystem.Shared\bin\Debug\net8.0\BookingSystem.Shared.pdb
+D:\PruebaTecnica\Backend\src\BookingSystem.Shared\obj\Debug\net8.0\BookingSystem.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\PruebaTecnica\Backend\src\BookingSystem.Shared\obj\Debug\net8.0\BookingSystem.Shared.AssemblyInfoInputs.cache
+D:\PruebaTecnica\Backend\src\BookingSystem.Shared\obj\Debug\net8.0\BookingSystem.Shared.AssemblyInfo.cs
+D:\PruebaTecnica\Backend\src\BookingSystem.Shared\obj\Debug\net8.0\BookingSystem.Shared.csproj.CoreCompileInputs.cache
+D:\PruebaTecnica\Backend\src\BookingSystem.Shared\obj\Debug\net8.0\BookingSystem.Shared.dll
+D:\PruebaTecnica\Backend\src\BookingSystem.Shared\obj\Debug\net8.0\refint\BookingSystem.Shared.dll
+D:\PruebaTecnica\Backend\src\BookingSystem.Shared\obj\Debug\net8.0\BookingSystem.Shared.pdb
+D:\PruebaTecnica\Backend\src\BookingSystem.Shared\obj\Debug\net8.0\ref\BookingSystem.Shared.dll

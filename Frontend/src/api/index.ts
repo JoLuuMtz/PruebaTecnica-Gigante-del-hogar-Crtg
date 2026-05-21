@@ -1,0 +1,6 @@
+export { apiClient } from '@/api/client'
+export { authApi } from '@/api/auth.api'
+export { usersApi } from '@/api/users.api'
+export { providersApi } from '@/api/providers.api'
+export { appointmentsApi } from '@/api/appointments.api'
+export { slotsApi } from '@/api/slots.api'

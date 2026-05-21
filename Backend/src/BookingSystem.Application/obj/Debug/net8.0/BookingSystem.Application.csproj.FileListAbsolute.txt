@@ -1,0 +1,17 @@
+D:\PruebaTecnica\Backend\src\BookingSystem.Application\bin\Debug\net8.0\BookingSystem.Application.deps.json
+D:\PruebaTecnica\Backend\src\BookingSystem.Application\bin\Debug\net8.0\BookingSystem.Application.dll
+D:\PruebaTecnica\Backend\src\BookingSystem.Application\bin\Debug\net8.0\BookingSystem.Application.pdb
+D:\PruebaTecnica\Backend\src\BookingSystem.Application\bin\Debug\net8.0\BookingSystem.Domain.dll
+D:\PruebaTecnica\Backend\src\BookingSystem.Application\bin\Debug\net8.0\BookingSystem.Shared.dll
+D:\PruebaTecnica\Backend\src\BookingSystem.Application\bin\Debug\net8.0\BookingSystem.Domain.pdb
+D:\PruebaTecnica\Backend\src\BookingSystem.Application\bin\Debug\net8.0\BookingSystem.Shared.pdb
+D:\PruebaTecnica\Backend\src\BookingSystem.Application\obj\Debug\net8.0\BookingSystem.Application.csproj.AssemblyReference.cache
+D:\PruebaTecnica\Backend\src\BookingSystem.Application\obj\Debug\net8.0\BookingSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\PruebaTecnica\Backend\src\BookingSystem.Application\obj\Debug\net8.0\BookingSystem.Application.AssemblyInfoInputs.cache
+D:\PruebaTecnica\Backend\src\BookingSystem.Application\obj\Debug\net8.0\BookingSystem.Application.AssemblyInfo.cs
+D:\PruebaTecnica\Backend\src\BookingSystem.Application\obj\Debug\net8.0\BookingSystem.Application.csproj.CoreCompileInputs.cache
+D:\PruebaTecnica\Backend\src\BookingSystem.Application\obj\Debug\net8.0\BookingS.5EAA46C0.Up2Date
+D:\PruebaTecnica\Backend\src\BookingSystem.Application\obj\Debug\net8.0\BookingSystem.Application.dll
+D:\PruebaTecnica\Backend\src\BookingSystem.Application\obj\Debug\net8.0\refint\BookingSystem.Application.dll
+D:\PruebaTecnica\Backend\src\BookingSystem.Application\obj\Debug\net8.0\BookingSystem.Application.pdb
+D:\PruebaTecnica\Backend\src\BookingSystem.Application\obj\Debug\net8.0\ref\BookingSystem.Application.dll
