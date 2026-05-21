@@ -231,7 +231,7 @@ Middleware valida token y usuario accede a recursos protegidos
 
 ```csharp
 var jwtSecret = builder.Configuration["JwtSettings:Secret"] 
-    ?? "M1S3cr3t0MuyS3gur0Yl4rg0P4raJWT1234567890!";
+    
 
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     .AddJwtBearer(options =>
